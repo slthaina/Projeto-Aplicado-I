@@ -32,7 +32,11 @@ Além disso, os dados podem ser combinados com outras fontes para uma análise m
 **Estrutura do Repositório**
 
 📂 DOCS: Documentação do projeto, incluindo relatórios finais, glossário e resumos das análises realizadas.
+
 📂 DATA: Bases de dados utilizadas no projeto, armazenadas em formato CSV e outros formatos, se necessário.
+
 📂 RESULTS: Relatórios gerados, datasets tratados e insights consolidados.
+
 📂 VÍDEOS: Apresentações explicando os resultados obtidos e as principais descobertas do projeto.
+
 📂 NOTEBOOKS: Jupyter Notebooks com os scripts de análise exploratória e manipulação de dados.
