@@ -6,8 +6,6 @@
 
 **Descrição:** A organização escolhida para este estudo é a Secretaria Municipal de Educação de São Paulo (SME-SP), responsável pela gestão da rede municipal de ensino na cidade de São Paulo. Segundo a SME-SP, “a Secretaria Municipal de Educação de São Paulo é responsável pela formulação e implementação de políticas públicas educacionais, garantindo o acesso, a permanência e a aprendizagem dos estudantes” (SME-SP, 2025a). A SME-SP administra escolas de educação infantil, ensino fundamental e programas educacionais voltados para o desenvolvimento da qualidade de ensino (SME-SP, 2025).
 
-**História:** 
-
 
 **Fonte e Dados**
 **Apresentação dos Dados (Metadados):**  Os principais metadados dos conjuntos de dados utilizados incluem:
@@ -32,8 +30,8 @@ Além disso, os dados podem ser combinados com outras fontes para uma análise m
 
 
 **Estrutura do Repositório**
-- DOCS: Contém documentos relevantes do projeto, como relatórios finais, glossário, e resumos das análises realizadas.
-- DATA: Armazena as bases de dados utilizadas no projeto, no formato CSV e outros formatos, se necessário.
-- RESULTS: Inclui o resultado final do projeto, como relatórios gerados e datasets tratados e linkados.
-- VÍDEOS: Armazena a apresentação final do projeto, explicando os insights e resultados obtidos.
-- NOTEBOOKS: Contém os Jupyter Notebooks com os scripts de análise exploratória e manipulação de dados.
+📂 DOCS: Documentação do projeto, incluindo relatórios finais, glossário e resumos das análises realizadas.
+📂 DATA: Bases de dados utilizadas no projeto, armazenadas em formato CSV e outros formatos, se necessário.
+📂 RESULTS: Relatórios gerados, datasets tratados e insights consolidados.
+📂 VÍDEOS: Apresentações explicando os resultados obtidos e as principais descobertas do projeto.
+📂 NOTEBOOKS: Jupyter Notebooks com os scripts de análise exploratória e manipulação de dados.
